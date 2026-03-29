@@ -158,11 +158,13 @@ async function gitCommit(count) {
       return;
     }
 
-    // ✅ FIX ตรงนี้
     await git.addConfig("user.name", "github-actions");
     await git.addConfig("user.email", "actions@github.com");
 
     await git.commit(`update ${count} movies`);
+
+    // 🔥 เพิ่มตรงนี้
+    await git.pull("origin", "main", { "--rebase": "true" });
 
     await git.push("origin", "HEAD:main");
 
