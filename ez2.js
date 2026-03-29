@@ -18,7 +18,7 @@ const CATEGORIES = [
 	"/ละครสั้นจีน/ละครสั้นจีน-แนวโรแมนติก",
 ];
 
-const TEST_MODE = true;   //false//true;
+const TEST_MODE = false;   //false//true;
 
 
 const SAVE_EVERY = 30;
