@@ -206,7 +206,8 @@ async function gitCommit(count) {
   let lastFirstMovie = "";
 
   let page = 1;
-
+  let oldStreak = 0;
+	  
 while (true) {
     const movies = await getMovies(cat, page);
    console.log(`📄 page ${page} → ${movies.length} เรื่อง`);
@@ -227,7 +228,19 @@ while (true) {
     const list = TEST_MODE ? movies.slice(0, 3) : movies;
 
     for (const m of list) {
-      if (resume.done.includes(m.movieUrl)) continue;
+      if (resume.done.includes(m.movieUrl)) {
+  oldStreak++;
+
+  if (oldStreak >= 5) {
+    console.log("🛑 เจอหนังเก่า 5 เรื่องติดกัน → จบหมวด");
+    break;
+  }
+
+  continue;
+}
+
+// 🔥 เจอหนังใหม่ → reset
+oldStreak = 0;
 
       console.log(`🎬 ${m.title}`);
 
@@ -264,6 +277,7 @@ total++;
   await gitCommit(total);
 }
       }
+	if (oldStreak >= 5) break;
          page++;
     }
 
