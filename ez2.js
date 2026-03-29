@@ -256,10 +256,10 @@ oldStreak = 0;
   servers
 };
 
-        categoryList.push(item);
+        categoryList.unshift(item);
 
 if (!allList.find(x => x.movieUrl === m.movieUrl)) {
-  allList.push(item);
+  allList.unshift(item);
 }
 
 resume.done.push(m.movieUrl);
