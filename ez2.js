@@ -19,7 +19,7 @@ const CATEGORIES = [
 ];
 
 const TEST_MODE = true;   //false//true;
-const MAX_PAGES = TEST_MODE ? 1 : 5;
+
 
 const SAVE_EVERY = 30;
 const COMMIT_EVERY = 50;
@@ -165,13 +165,32 @@ function saveAll(list) {
 async function gitCommit(count) {
   try {
     await git.add(".");
+
+    const status = await git.status();
+    if (status.files.length === 0) {
+      console.log("⚠️ no changes");
+      return;
+    }
+
+    await git.addConfig("user.name", "github-actions");
+    await git.addConfig("user.email", "actions@github.com");
+
     await git.commit(`update ${count} movies`);
-    await git.push();
-    console.log("🚀 pushed to github");
+
+    // 🔥 กันชน (สำคัญมาก)
+    await git.pull("origin", "main", { "--rebase": "true" }).catch(() => {});
+
+    // 🔥 push แบบปลอดภัย
+    await git.push("origin", "HEAD:main", {
+      "--force-with-lease": null,
+    });
+
+    console.log("🚀 pushed:", count);
   } catch (e) {
-    console.log("⚠️ git error");
+    console.log("⚠️ git error:", e.message);
   }
 }
+
 
 // ================= MAIN =================
 (async () => {
@@ -186,7 +205,9 @@ async function gitCommit(count) {
   let categoryList = [];
   let lastFirstMovie = "";
 
-  for (let page = 1; page <= MAX_PAGES; page++) {
+  let page = 1;
+
+while (true) {
     const movies = await getMovies(cat, page);
    console.log(`📄 page ${page} → ${movies.length} เรื่อง`);
     // ❗ ไม่มีหนัง
@@ -215,11 +236,12 @@ async function gitCommit(count) {
         await new Promise(r => setTimeout(r, 300));
         
 	const item = {
-          title: m.title,
-          group: cat.replace("/movies/", ""),
-          logo: m.image,
-          servers
-        };
+  title: m.title,
+  group: cat.replace("/movies/", ""),
+  logo: m.image,
+  movieUrl: m.movieUrl, // ✅ เพิ่มบรรทัดนี้
+  servers
+};
 
         categoryList.push(item);
 
@@ -242,6 +264,7 @@ total++;
   await gitCommit(total);
 }
       }
+         page++;
     }
 
         // 💾 save ตอนจบหมวด
