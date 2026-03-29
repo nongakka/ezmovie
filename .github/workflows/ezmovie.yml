@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# 🔥 กัน workflow ชนกัน
+concurrency:
+  group: ezmovie-scrape
+  cancel-in-progress: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -15,6 +20,8 @@ jobs:
     steps:
       - name: 📥 Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 🔥 สำคัญมาก
 
       - name: 🟢 Setup Node
         uses: actions/setup-node@v4
@@ -27,11 +34,4 @@ jobs:
       - name: 🚀 Run scraper
         run: node ez.js
 
-      - name: 💾 Commit & Push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-
-          git add .
-          git commit -m "auto update playlist" || echo "no changes"
-          git push
+      # ❌ ลบ Commit & Push ออกทั้งหมด
