@@ -10,12 +10,12 @@ const git = simpleGit();
 const BASE = "https://ezmovie.movie";
 
 const CATEGORIES = [
-  
+  "/movies/หนังผู้ใหญ่-18-adult",
   "/movies/หนังเอเชีย",
   "/movies/หนังแอคชั่นบู๊-action",
   "/movies/หนังดราม่า-drama",
   "/movies/หนังผจญภัย-adventure",
-  "/movies/หนังผู้ใหญ่-18-adult",
+  
 ];
 
 const TEST_MODE = false;   //false//true;
