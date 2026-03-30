@@ -142,5 +142,725 @@
         "url": "https://vod1.stream25.com/Mantis-2025-TH.mp4.m3u8"
       }
     ]
+  },
+  {
+    "title": "Nocturnal (2025) แค้นนี้เอาให้น็อก",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/b753b22fc282cd2d5ed9ada05adc931d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/nocturnal-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Nocturnal-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Harbin (2024) ฮาร์บิน",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/a412531fa60e53d05dc8a0f1ad6b7a5b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/harbin-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Harbin-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Hidden Face (2024) เล่ห์ ร้อน ซ่อน ชู้",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/106e874837d94e3d3dfa365bfc7a02bc.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/hidden-face-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Hidden-Face-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "I The Executioner (2024) คู่เดือดนรกต้องกราบ",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/2e4b73e086dee28f2e9c6255a546540b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/i-the-executioner-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/I-The-Executioner-2024-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Wall to Wall (2025) ฝันร้าย 84 ตร.ม.",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/22e501fc83337fdeca04d4d8381d8287.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/wall-to-wall-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Wall-to-Wall-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Firefighters (2024)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/150e9c2f553c8837c77220277ee49ea9.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/firefighters-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Firefighters-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Pilot (2024) ต้าวนักบิน จิ้นกันไหมจ๊ะ",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/1412b435cf78ae321cdf005f753c126f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/pilot-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Pilot-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Revelations (2025) นิมิตสวรรค์",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202503/movie/11295df31c23de656c98f9715d51cb41.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/revelations-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Revelations-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Match (2025) เดอะ แมทช์",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/cba0a7a2539be67583dd07b18c31b64a.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-match-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Match-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Roundup Punishment (2024) บู๊ระห่ำ ล่าล้างนรกนรกลงทัณฑ์",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/4673d665a369bc2926a37893a6c50456.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-roundup-punishment-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Roundup-Punishment-2024-SUB.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Secret Untold Melody (2025) ซีเคร็ท : ทำนองรักข้ามเวลา",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202506/movie/1e702429e43531c11a03bcd097e36b18.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/secret-untold-melody-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Secret-Untold-Melody-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Holy Night Demon Hunters (2025) ฅนต่อยผี",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202506/movie/6dace3774b7c9d63d518a32a796b9616.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/holy-night-demon-hunters-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Holy-Night-Demon-Hunters-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Carter (2022) คาร์เตอร์",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202312/movie/f48f2821f31938cc7a656cdf91637a7b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/carter-2022-%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-3001-to-3100/43808a09-f89f-4f4e-9ce6-14b256a4bc33___Carter%20%282022%29%20th/hls/Carter%20%282022%29%20th.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Beast (2019) ปิดโซลล่า",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202401/movie/973968962b56759803eafcfa04bdc78b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-beast-2019-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B8%A5%E0%B9%88%E0%B8%B2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-8501-to-8600/ba30ac02-21a9-4643-847a-ad1f998133e0___The.Beast.2019%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A2%E0%B8%A2/hls/The.Beast.2019%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A2%E0%B8%A2.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Yaksha: Ruthless Operations: ปฏิบัติการยักษ์ล้มยักษ์  (2022)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/34848fe716034ae28f020a10e880a0a3.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/yaksha-ruthless-operations-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%A5%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-2022",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-9201-to-9300/ca0ca4dd-5c9a-4f7e-8bea-5feaab4b2818___Mastering%202022.Yaksha_%20%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%A5%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%20%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-01/hls/Mastering%202022.Yaksha_%20%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%A5%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%20%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "No Mercy (2019) ไม่มีความเมตตา",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202208/movie/cc81deea381b0570c6d747ae1e0fc1ff.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/no-mercy-2019-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%95%E0%B8%95%E0%B8%B2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-10401-to-10500/e2f34ace-a302-4a49-a0ce-42e212f1934d___No.Mercy.2019.%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A/hls/No.Mercy.2019.%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%9A.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Call (2020) สายตรงต่ออดีต",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/1ce081ba652b7171973591d28c4ea74a.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-call-call-netflix-2020-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Call-2020-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Pawn (2020) แปะโป้งไว้ที่ดวงใจอาจอชิ",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/36c3c43ffeceba4497a7a9bfed281347.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/pawn-2020-%E0%B9%81%E0%B8%9B%E0%B8%B0%E0%B9%82%E0%B8%9B%E0%B9%89%E0%B8%87%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%88%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%AD%E0%B8%8A%E0%B8%B4",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Pawn-2020-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Space Sweepers (2021) ชนชั้นขยะปฏิวัติจักรวาล",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/74a6a96e3144ae3a8173530e7ccabdaf.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/space-sweepers-2021-%E0%B8%8A%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%82%E0%B8%A2%E0%B8%B0%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Space-Sweepers-2021-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Sweet & Sour (2021) รักหวานอมเปรี้ยว",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/23b953476d51fd931315c6e43277b54c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/sweet-sour-2021-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-2701-to-2800/3c7bfedb-4222-4447-91cc-9dca57225993___Sweet%20%26%20Sour%20%282021%29%20sub%20thai%20-01/hls/Sweet%20%26%20Sour%20%282021%29%20sub%20thai%20-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Kingdom Ashin Of The North",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/d6bc578cb421be7bb890cac189c60cce.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/kingdom-ashin-of-the-north",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/c0afa278-7650-408d-bef8-eb0065689f72/hls/Kingdom+Ashin+of+the+North+(2021)+(1)-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Battleship Island (2017) เดอะ แบทเทิลชิป ไอส์แลนด์",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/4350b1e6edf208f2970dc2eb5fa17605.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-battleship-island-2017-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B4%E0%B8%9B-%E0%B9%84%E0%B8%AD%E0%B8%AA%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-8701-to-8800/bdf34036-5b90-4621-8067-f82e6da8b557____The.Battleship.Island.2017.%20TH/hls/_The.Battleship.Island.2017.%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "the Favourite 2018",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/b4b20cf45bd3b5fbc88d9bdd34be388f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-favourite-2018",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-5601-to-5700/7b0b3a84-2658-4295-8384-008b0bac5851____The.Favourite.2018%20eng-01/hls/_The.Favourite.2018%20eng-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "forgotten(2017)ความทรงจำพิศวง",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/93e5b510a713813af556c46b7412deb9.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/forgotten-2017-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%87",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-5501-to-5600/77ae8733-3dd9-4d07-8460-d641e3fad902___Forgotten%20%28Gi-eok-ui%20Bam%29%20%282017%29%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%87-01/hls/Forgotten%20%28Gi-eok-ui%20Bam%29%20%282017%29%20%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%87-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "My Lovely Angel (2021)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/a2c199f3303c65cc83cc345fcc7e3fad.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/my-lovely-angel-2021",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-2801-to-2900/3e4b26f7-1717-4e0f-8f3f-d77a947b7d4a___My%20Lovely%20Angel%20%282021%29/hls/My%20Lovely%20Angel%20%282021%29.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Parasite (2019) ชนชั้นปรสิต",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/f8de15c6efb4f8f8163c86be650b3d7b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/parasite-2019-%E0%B8%8A%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%95",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-801-to-900/11a96010-4964-4c91-be40-78271ef18173___%7BMINI%20Super-HQ%7D_Parasite.2019.thai-01/hls/%7BMINI%20Super-HQ%7D_Parasite.2019.thai-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Veteran(2015)ขอโทษที! ปืนพี่มันลั่น!",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/6bc0b363cfe8812185e4fe780add5b38.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/veteran-2015-%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9%E0%B8%97%E0%B8%B5-%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-7301-to-7400/a0ef5df1-15ae-42f7-ade7-8b0d7130a491___Veteran%20%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9%E0%B8%97%E0%B8%B5%21%20%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99%21%202015-01/hls/Veteran%20%E0%B8%82%E0%B8%AD%E0%B9%82%E0%B8%97%E0%B8%A9%E0%B8%97%E0%B8%B5%21%20%E0%B8%9B%E0%B8%B7%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99%21%202015-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Time to Hunt 2020 ถึงเวลาล่า เกมล่ายืดเวลาตาย",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202206/movie/2e62fc62081c73d7fe1bd78d255fda6d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/time-to-hunt-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-1101-to-1200/1900faf0-ebcf-47ac-ae99-0412f7d9a0c5___Time.to.Hunt.2020.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-CMRG-01/hls/Time.to.Hunt.2020.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-CMRG-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Love and Leashes(2022) รักจูงรัก",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202207/movie/3b68500b2abe767ff992d69a8aa60aba.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/loveandleashes-2022-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B9%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-301-to-400/06f3a556-ddce-40b3-8cd2-0c39d74b0c10___Love.and.Leashes.2022%20%E0%B9%84%E0%B8%97%E0%B8%A2/hls/Love.and.Leashes.2022%20%E0%B9%84%E0%B8%97%E0%B8%A2.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "OKJA(2017)โอคจา ซูเปอร์หมู",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202206/movie/bdc40afa5a9e3fcd7a1394394fa49e83.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/okja-2017-%E0%B9%82%E0%B8%AD%E0%B8%84%E0%B8%88%E0%B8%B2-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B9",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-1201-to-1300/1c09ea3f-7360-4c3e-987e-91fd10281164___OKJA%20-%20%E0%B9%82%E0%B8%AD%E0%B8%84%E0%B8%88%E0%B8%B2%20%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B9%20%5B2017%5D/hls/OKJA%20-%20%E0%B9%82%E0%B8%AD%E0%B8%84%E0%B8%88%E0%B8%B2%20%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AB%E0%B8%A1%E0%B8%B9%20%5B2017%5D.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Villainess (2017) สวยแค้นโหด",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202206/movie/185f08c2db0943b22af185d40e5a850f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-villainess-2017-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%AB%E0%B8%94",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-4501-to-4600/63a77905-4ecb-469a-8c5b-a9854ab303fc___The%20Villainess%202017-01/hls/The%20Villainess%202017-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Jesters The Game Changers (2019)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202207/movie/215e96b77857cd087ce8d3cd3e7337d1.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/jesters-the-game-changers-2019",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-7101-to-7200/9c24cc5f-c3b6-4f9b-b564-bb34e5bfbb23___Jesters%20-%20The%20Game%20Changers%20%282019%29%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%9A/hls/Jesters%20-%20The%20Game%20Changers%20%282019%29%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%9A.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Sinkhole (2021) ฝ่าวิกฤต หลุมระทึก",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202207/movie/97bc4c30abda9d53ddc48c7eb6ccd2bf.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/sinkhole-2021-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-4501-to-4600/63eb1737-55b1-41d8-b979-0bc27a4a805c___Sinkhole%20%282021%29/hls/Sinkhole%20%282021%29.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Architecture 101 (2012) รักแรกในความทรงจำ",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202209/movie/af0bc300b8c96f4af63a7ba9b2afc4a4.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/architecture-101-2012-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-1301-to-1400/1e60a40b-233a-4b10-929f-c2b402d85d67___Architecture%20101%20%282012%29%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3%20%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A2%E0%B8%A2/hls/Architecture%20101%20%282012%29%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3%20%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A2%E0%B8%A2.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Emergency Declaration (2022) ไฟลต์คลั่ง ฝ่านรกชีวะ",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202209/movie/a8ebceb1e5aed09c148a91450587123e.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/emergency-declaration-2022-%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B8%95%E0%B9%8C%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B0",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-7501-to-7600/a41bc7a0-8cb2-4e07-9c09-530cdc2a972d___Emergency.Declaration.2022.AAC%202.0/hls/Emergency.Declaration.2022.AAC%202.0.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "BTS PERMISSION TO DANCE ON STAGE - LA (2022)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202209/movie/1102341d653aedb5128daefa153799ea.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/bts-permission-to-dance-on-stage-la-2022",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-8401-to-8500/b6876b6e-9155-4816-99b7-8194f8974b57___BTS%20PERMISSION%20TO%20DANCE%20ON%20STAGE%20-%20LA%20%282022%29%20eng/hls/BTS%20PERMISSION%20TO%20DANCE%20ON%20STAGE%20-%20LA%20%282022%29%20eng.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Homunculus (2021) ฮามังคิวลัส",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/69437db27ef72f637292abdc6d5af0aa.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/homunculus-2021-%E0%B8%AE%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B4%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%AA",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-1101-to-1200/18a4e08c-cd72-4651-a5bb-d366c7c23d08___Homunculus%20%282021%29%20mp.4/hls/Homunculus%20%282021%29%20mp.4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Innocence (Gyul-Baek) (2020)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202208/movie/6255c92f85772c5f56aaa0068cfa4976.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/innocence-gyul-baek-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-6301-to-6400/8b369187-937b-4598-b6b2-42561749fdf5___Innocence%20%282020%29%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%9A/hls/Innocence%20%282020%29%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%9A.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "THE MERCILESS (2017) แก๊งค์ระห่ำ โหดทะลุพิกัด",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202209/movie/410299a950d1a145b16ff24886e52aec.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-merciless-2017-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-10201-to-10300/e0699cfa-08cc-4e7b-be54-bf7ad73f41d8___The.Merciless.2017.BluRay.1080p.%20TH/hls/The.Merciless.2017.BluRay.1080p.%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Next Door Neighbor (2020)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202209/movie/50b6b929247bccf87f3b07125ad23882.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/next-door-neighbor-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-1301-to-1400/1d1a2f03-b96a-42a8-9c5d-ba91ded11807___Next.Door.Neighbor.2020.%20Sub/hls/Next.Door.Neighbor.2020.%20Sub.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Ip Man 4 The Finale (2019) ยิปมัน ภาค 4",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202206/movie/127110d7c28b716c90935a990cf2b484.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/ip-man-4-2019",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-6401-to-6500/8d1f18ef-30bd-4645-93bf-a66b5b84d864___Ip.Man.4.The.Finale.%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A2/hls/Ip.Man.4.The.Finale.%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A2.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Umma (2022) คุณแม๊",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/fbd6e06e7e97b87d67dd894496244f8d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/umma-2022-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%8A",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/fce08739-946e-4c00-90a8-e7e3e76a1c76/hls/(%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87+Audio)+Umma+(2022)+%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%B2+%E0%B8%9C%E0%B8%B5%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99+%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C+Eng+%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "RV Resurrected Victims (2017)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202301/movie/56b93b73c6b72d485205f0dfd3c03cb2.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/rv-resurrected-victims-2017",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Search Out (Seochi Aut) (2020)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202208/movie/abf1ccd50e4e4e8e6e8ffaad8e387089.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/search-out-seochi-aut-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/58ed3dfd-8bc0-4310-aaa6-9b1a1a93f7e9/hls/Search+Out+(2020)+%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%9A.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Seoul Vibe (2022)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202208/movie/0b2d5e91c2ff648602c1b9bb064ec8e0.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/seoul-vibe-2022",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-4601-to-4700/644a83ec-0b97-4c8a-804f-824272bab2c0___Seoul%20Vibe%20%282022%29%20TH/hls/Seoul%20Vibe%20%282022%29%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Yadang The Snitch (2025) ทรชนคนสองหน้า",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/190b68e55a332513341301da9e261e87.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/yadang-the-snitch-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Yadang-The-Snitch-2025-V1-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Still 2 (2014) ตายโหง ตายเฮี้ยน",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202110/movie/114048758ca5a025a8f96acad5efa454.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/still-2-2014-%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%AB%E0%B8%87-%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AE%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "To My Star (2021)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/7555c658f5561540a61ddfe24f2137d4.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/to-my-star-2021",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Welcome to the Guesthouse (2020)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/1701b9a71a72c86ce81ad7fe52144530.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/welcome-to-the-guesthouse-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "THE SOUL-MATE (2018)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/eaa5c8e06247ade41d294ba0a67344aa.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/m07652",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Sugar Cafe (2018) เปิดตำรับรักนายหน้าหวาน",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/cd9642263303a1a9bfb0d7eb00a0142e.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/sugarcafe2018%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Wonderful Nightmare (2015)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/ac3da5c05aea5d45f9c1b45743fe7971.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/wonderful-nightmare-2015",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/7bfd7f20-c9f0-4002-b0ec-e64705f53a0d/hls/Wonderful%20Nightmare%20(2015).m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Believer (2018) โจรล่าโจร",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/27c37abb1c4458748e4046129be71ff1.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/believer-2018-%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%88%E0%B8%A3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "A Special Lady (2017) สเปเชียล เลดี้ [Sup TH]",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/27c7befcb911a0b33b058fb6223d67bf.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/a-special-lady-2017-%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A5-%E0%B9%80%E0%B8%A5%E0%B8%94%E0%B8%B5%E0%B9%89-sup-th",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Seoul Station (2016) ก่อนนรกซอมบี้คลั่ง",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/83dc9e87a38e556166ac1d612e24c8e4.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/seoul-station-2016-%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "RV Resurrected Victims (Heesaeng boohwalja) (2017)",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/bf52c667bdd75542a05da912ec7f1dd6.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/rv-resurrected-victims-heesaeng-boohwalja-2017",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Three Kingdoms: Resurrection of the Dragon (2008) สามก๊ก ขุนศึกเลือดมังกร",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/3addce35f1ed648411f695749f46cee7.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/three-kingdoms-resurrection-of-the-dragon-2008-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B9%8A%E0%B8%81-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Tae Guk Gi: The Brotherhood of War (2004) เทกึกกี เลือดเนื้อ เพื่อฝัน วันสิ้น",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/1b2696b1e12fbd211a92ea651115e694.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/tae-guk-gi-the-brotherhood-of-war-2004-%E0%B9%80%E0%B8%97%E0%B8%81%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B5-%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9D%E0%B8%B1%E0%B8%99-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "MASTER FACE CHANGER (2021) สลับหน้าตามล่าฝัน",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/77216d702111900acd08d7da1f8039d5.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/master-face-changer-2021-%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%9D%E0%B8%B1%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Sky Hunter สกาย ฮันเตอร์ ฝูงบินเกียรติยศ",
+    "group": "หนังเกาหลี",
+    "logo": "https://bbk100.xyz/media/cache/strip/202106/movie/a5ea93866c94bff88cf9e28d8888fe42.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/sky-hunter-%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2-%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%A8",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
   }
 ]
