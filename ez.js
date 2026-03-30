@@ -294,4 +294,5 @@ if (categoryList.length > 0) {
 }
 
   console.log("✅ DONE:", total);
+} 
 })();
