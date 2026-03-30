@@ -1,0 +1,37 @@
+name: EZMovie2
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
+
+permissions:
+  contents: write
+
+# 🔥 กัน workflow ชนกัน
+concurrency:
+  group: ezmovie-scrape
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 🔥 สำคัญมาก
+
+      - name: 🟢 Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📦 Install deps
+        run: npm install
+
+      - name: 🚀 Run scraper
+        run: node ez.js
+
+      # ❌ ลบ Commit & Push ออกทั้งหมด
