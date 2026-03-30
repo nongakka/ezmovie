@@ -28,6 +28,6 @@ jobs:
         run: npm install
 
       - name: 🚀 Run scraper
-        run: node ez2.js
+        run: node ezshort.js
 
       # ❌ ลบ Commit & Push ออกทั้งหมด
