@@ -13,8 +13,7 @@ const CATEGORIES = [
   "/movies/หนังมาใหม่",
   "/movies/หนังไทย",
   "/movies/หนังฝรั่ง",
-  "/movies/หนังเกาหลี",
-  "/movies/หนังญี่ปุ่น",
+  
   
 ];
 
