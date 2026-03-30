@@ -69,7 +69,11 @@ async function getMovies(categoryPath, page = 1) {
   const $ = cheerio.load(html);
   const movies = [];
 
-  $("a[data-url]").each((i, el) => {
+  // ================= แบบปกติ =================
+const normal = $("a[data-url]");
+
+if (normal.length) {
+  normal.each((i, el) => {
     const title = $(el).find("h2.-title").text().trim();
 
     let image =
@@ -87,6 +91,31 @@ async function getMovies(categoryPath, page = 1) {
 
     movies.push({ title, image, movieUrl, category: categoryPath });
   });
+
+  return movies;
+}
+
+// ================= fallback (18+) =================
+console.log("⚠️ fallback selector");
+
+$("a[href*='/movie/']").each((i, el) => {
+  const href = $(el).attr("href");
+  if (!href) return;
+
+  const movieUrl = href.startsWith("http")
+    ? href
+    : BASE + href;
+
+  const title = $(el).text().trim();
+
+  let image =
+    $(el).find("img").attr("data-src") ||
+    $(el).find("img").attr("src");
+
+  movies.push({ title, image, movieUrl, category: categoryPath });
+});
+
+return movies;
 
   return movies;
 }
