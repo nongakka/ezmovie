@@ -15,11 +15,7 @@ const CATEGORIES = [
   "/movies/หนังฝรั่ง",
   "/movies/หนังเกาหลี",
   "/movies/หนังญี่ปุ่น",
-  "/movies/หนังเอเชีย",
-  "/movies/หนังแอคชั่นบู๊-action",
-  "/movies/หนังดราม่า-drama",
-  "/movies/หนังผจญภัย-adventure",
-  "/movies/หนังผู้ใหญ่-18-adult",
+  
 ];
 
 const TEST_MODE = false;   //false//true;
