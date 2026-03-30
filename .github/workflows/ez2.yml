@@ -1,4 +1,4 @@
-name: EZMovie2
+name: EZshort
 
 on:
   workflow_dispatch:
