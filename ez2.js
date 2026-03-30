@@ -233,7 +233,15 @@ async function gitCommit(count) {
   console.log(`\n===== 📁 ${cat} =====`);
 
   let categoryList = [];
-  let lastFirstMovie = "";
+
+const safe = cat.replace("/movies/", "").replace(/[^\wก-๙]/g, "_");
+const file = `playlist_${safe}.json`;
+
+if (fs.existsSync(file)) {
+  categoryList = JSON.parse(fs.readFileSync(file));
+}
+
+let lastFirstMovie = "";
 
   let page = 1;
 
@@ -301,10 +309,12 @@ try {
 	 page++; 
     }
 
-    // 💾 save ตอนจบหมวด
-    saveResume(resume);
-    saveCategory(cat.replace("/movies/", ""), categoryList);
-  }
+   // 💾 save ตอนจบหมวด
+saveResume(resume);
+
+if (categoryList.length > 0) {
+  saveCategory(cat.replace("/movies/", ""), categoryList);
+}
 
   // 🚀 commit รอบสุดท้าย
   if (!TEST_MODE) {
