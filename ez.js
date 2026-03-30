@@ -19,8 +19,8 @@ const CATEGORIES = [
 
 const TEST_MODE = false;   //false//true;
 
-const SAVE_EVERY = 30;
-const COMMIT_EVERY = 50;
+const SAVE_EVERY = 50;
+const COMMIT_EVERY = 100;
 
 const PROJECT_NAME = "ezmovie"; // 🔥 เปลี่ยนชื่อตามโปรเจคนี้
 const RESUME_FILE = `./resume/${PROJECT_NAME}.json`;
