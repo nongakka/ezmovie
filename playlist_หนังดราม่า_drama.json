@@ -454,5 +454,365 @@
         "url": "https://vod1.stream25.com/Eden-2025-TH.mp4.m3u8"
       }
     ]
+  },
+  {
+    "title": "She Said Maybe (2025) เมื่อเธอตอบว่า...ไม่แน่",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/3cb20bbe510c1d2509f625c5801aff8f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/she-said-maybe-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/She-Said-Maybe-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Lost Bus (2025) รถบัสที่หายไป",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/b1458fe08439e6654f6a3e01f3e4ed5b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-lost-bus-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Lost-Bus-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Steve (2025) สตีฟ",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/986460848c298a16b3fcf8199fb8e55e.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/steve-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Steve-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Mahavatar Narsimha (2025) นรสิงหาวตาร",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/12185f77a74f6176772e355c1ed6fb89.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/mahavatar-narsimha-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Mahavatar-Narsimha-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Love in the Big City (2024) เธอเหงาเราเผลอ",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/25d5f7afb7a8ecba0ec4a56cbdd46df4.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/love-in-the-big-city-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Love-in-the-Big-City-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Woman in Cabin 10 (2025) ฝันร้ายในห้องหมายเลข 10",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/a95d1463eaae4506b0a860988e12c170.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-woman-in-cabin-10-2025-10",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Woman-in-Cabin-10-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Doraemon The Movie Nobita no Esekai Monogatari (2025) โดราเอมอน เดอะมูฟวี่ ตอน นิทานโลกศิลปะของโนบิตะ",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/e249f93e70b2cbede1cff8da1356d228.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/doraemon-the-movie-nobita-no-esekai-monogatari-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Doraemon-The-Movie-44-Nobita-no-Esekai-Monogatari-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Solitary Gourmet (2025) โกโร่ อร่อยฉายเดี่ยวตะลอนทั่วโลก",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/db5c1c3b7e7ac5a51c766df8b9c38164.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-solitary-gourmet-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Solitary-Gourmet-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Depravity (2024) ชั่วโคตรร้าย",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/9b223ca8e97e9ca8fb929f9d7857e01a.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/depravity-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Depravity-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "You Are the Apple of My Eye (2024) รักเรายังจำได้ไหม",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/768a374fbb1bb0c3d2f06b504fb472f2.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/you-are-the-apple-of-my-eye-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/You-Are-the-Apple-of-My-Eye-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Play Dirty (2025) หักหลังต้องหักเหลี่ยม",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/623e8a8d801dfed5fcc5beabb2f2baf1.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/play-dirty-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Play-Dirty-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Kingdom 2025 ฝ่าภารกิจเดือด",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/8a1c2ae399bad60c803cfb685978ac38.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/kingdom-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Kingdom-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Last Breath (2025) ลมหายใจสุดท้าย ใต้สมุทรมรณะ",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/b477a14a6747d97fe617b1d1542c3baf.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/last-breath-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Last-Breath-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Siege at Thorn High (2025) ปิดโรงเรียนล่าโหดครู",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/ed84965a816b5aa96c677f9f405777dd.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-siege-at-thorn-high-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Siege-at-Thorn-High-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Love Sick  (2025)",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/5e7c3da38507198abc5b57e105f9d6fb.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/love-sick-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Love-Sick-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Ne Zha 2 (2025) นาจา 2",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/e069877b523f3e834b8704d5a8e6d8f5.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/ne-zha-2-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Ne-Zha-2-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Love Untangled (2025) สาวผมยุ่งหัวใจว้าวุ่น",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/88cb4f80ebd0be836876fc167a766cbc.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/love-untangled-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Love-Untangled-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Night Always Comes (2025) คืนวันอันตราย",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/37c37bd1bd6fcc43e22bd1f20fd1a218.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/night-always-comes-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Night-Always-Comes-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Mantis (2025) ตั๊กแตนนักฆ่า",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/37d450ba1451f587ed70e2d997be192e.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/mantis-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Mantis-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Accountant 2 (2025) อัจฉริยะคนบัญชีเพชฌฆาต 2",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202506/movie/cca9a5e0484b2c1ef7b5df0a6746d32c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-accountant-2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Accountant-2-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "GATAO: Like Father Like Son (2024) เจ้าพ่อ: เชื้อร้ายไม่ทิ้งแถว",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/b5f70f0f7ded0c2fcc5f99fa6e91408c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/gatao-like-father-like-son-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/GATAO-Like-Father-Like-Son-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "สุสานคนเป็น (2025) Tomb Watcher",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/6cd4f640d32c344d095a4b9e86306012.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/tomb-watcher-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Tomb-Watcher-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Lilo & Stitch (2025) ลีโล & สติทช์",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/5c047419f6072606144da75e35ed59b2.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/lilo-stitch-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Lilo-Stitch-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "A Normal Woman (2025) ผู้หญิงธรรมดาคนหนึ่ง",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/3f8c123b22f225a1cb4144384c94df57.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/a-normal-woman-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/A-Normal-Woman-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Blood Brothers Bara Naga (2025) เลือดเดือด ฝ่าองค์กรทมิฬ",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/1847301f4407c4a8b32d4371480b0f9d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/blood-brothers-bara-naga-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Blood-Brothers-Bara-Naga-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Alto Knights (2025) อัลโต ไนท์ส ทรชนครองเมือง",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/61e5b6f7d7fe0a3441194ff1c8ea993c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-alto-knights-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Alto-Knights-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Isolated (2025) ตัดขาด",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/4a38136a96fb9c036565c151e9614912.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/isolated-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Isolated-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Kraken (2025) คราเคน เลื้อยสยอง 20,000 โยชน์",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/fc1544bb75353c16b465695cc3c8a94e.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/kraken-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Kraken-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Emilia Perez (2025) เอมิเลีย เปเรซ",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/3c7e3a49f9695871f724643d936afc3f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/emilia-perez-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Emilia-Perez-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "ฮาลาบาลา ป่าจิตหลุด (2025) Halabala Survival Cut",
+    "group": "หนังดราม่า-drama",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/554135f43d60f06b3c2abebea6e2300a.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/halabala-survival-cut-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Halabala-Survival-Cut-2025-TH.mp4.m3u8"
+      }
+    ]
   }
 ]
