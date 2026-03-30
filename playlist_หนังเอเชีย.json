@@ -10,5 +10,725 @@
         "url": "https://vod1.stream25.com/Under-Current-2026-TH.mp4.m3u8"
       }
     ]
+  },
+  {
+    "title": "Chhaava (2025) มหาราชาหัวใจสิงห์",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202506/movie/6274c8daf78d9fd347a70f5ac3d748a6.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/chhaava-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Chhaava-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Ballot (2024) บัตรเลือดตั้ง",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202602/movie/1414382a132e2b9c2e231836f3253255.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/ballot-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Ballot-2024-SUB.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "สัปเหร่อ (2023) The Undertaker",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202402/movie/689f297d08c0441f79d877c8171603ae.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-undertaker-thai-2023",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Undertaker-2023-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "96 Minutes (2025) 96 นาทีชีวิต",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202601/movie/04cc174a55de58f2ab42a5449985e3dd.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/96-minutes-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/96-Minutes-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Black Storm (2024) พายุทมิฬ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202601/movie/20cf60a3c872d69b320cacdcca69a81b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/black-storm-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Black-Storm-2024-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "731 Evil Unbound (2025) 731 เชื้อนรก โลกจารึก (จับคนมาทำเชื้อโรค)",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202601/movie/35e06820deb3b40a9bcc3c2ba6f64d3c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/731-evil-unbound-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/731-Evil-Unbound-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Dongji Rescue (2025) ตงจี๋ เรสคิว พลิกนรกกู้ชีพ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202601/movie/e939ac583478e50afc13bb0a7c2b4abf.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/dongji-rescue-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Dongji-Rescue-2025-SUB.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Shallows (2025) มฤตยูน้ำตื้น",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202512/movie/ca860b449b7cc5eb5a0e589f35a48fa2.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-shallows-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Shallows-2025-SUB.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Triggered (2023) สัญชาตญาณสังหาร",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202512/movie/c8d77aeaead43c69b08852897348a08a.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/triggered-2023",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Triggered-2023-SUB.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Ride (2025) ซิ่งฝ่านรก",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202512/movie/9d287a79c55d347a28cc69e571fbc68e.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-ride-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Ride-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Organ Child (2025) อวัยวะเถื่อน",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/8fb45484945a546b3c6a7782a32f38ff.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/organ-child-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Organ-Child-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "They Call Him OG (2025) โอจี คนระห่ำคืนถิ่น",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/308b5fab4f1e1c7c4aaff2675685d0e6.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/they-call-him-og-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/They-Call-Him-OG-2025-SUB.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Thangalaan (2024) แผ่นดินทอง",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/eb921428a293f064f305ca0bc6afab48.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/thangalaan-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Thangalaan-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Baramulla (2025) บารามุลลาอาถรรพ์",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/c453669374ea69109c990dd1b7782659.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/baramulla-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Baramulla-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Vina: Before 7 Days (2024) วีนา คืนบาป สาปจากหลุมศพ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/e6d13f3813af7a1d67e999b827cbfa86.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/vina-before-7-days-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Vina-Sebelum-7-Hari-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Bleeding Tiger: Conflict Begins (2025) หลั่งเลือดพยัคฆ์: ปฐมบทปมขัดแย้ง",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/279fe72e77a6fcc55eb6c859ff278ee0.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/bleeding-tiger-conflict-begins-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Bleeding-Tiger-Conflict-Begins-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Legend of Bayis Grandpa (2024) เรื่องประหลาดฉางเล่อ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/a2a3b4a36f976229227d84edd0f4f87a.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-legend-of-bayis-grandpa-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Legend-of-Bayis-Grandpa-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "War 2 (2025)",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/45688952bcc82bae3e8cd92cc7b18b8f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/war-2-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/War-2-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Telaga Suriram (2025) บ่ออาถรรพ์",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202511/movie/0d84be69abdc9fae204df924274ba8f4.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/telaga-suriram-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Telaga-Suriram-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Elixir (2025) น้ำทิพย์ชะโลมตาย",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/315d8e8b00f76b7cab6c256e98aa33c8.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-elixir-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Elixir-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Sniper 2 (2024) สไนเปอร์ 2",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/8f10fb89e670ce1f9c27784d78f1ed73.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/sniper-2-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Sniper-2-2024-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Journey to the West The Helltown of Heaven (2025) ไซอิ๋ว เมืองนรกบนสวรรค์",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/0e04703d1715cbd247c722f9863a4a90.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/journey-to-the-west-the-helltown-of-heaven-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Journey-to-the-West-The-Helltown-of-Heaven-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Sugar Mill (2025) โรงงานผีดุ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/e261be0cb2705d44d113a63dfb720406.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/sugar-mill-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Sugar-Mill-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Descent Curse of Di Renjie (2025) ตี๋เหรินเจี๋ยกับเวทย์ขจัดมาร",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/c0939967eec3a87addd6ef379af7d69a.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-descent-curse-of-di-renjie-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Descent-Curse-of-Di-Renjie-2025-sub-1.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Inspector Zende (2025) สารวัตรซ่าปะทะทรชน",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/0c01c4a419b0d2d980cf8c46397693c3.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/inspector-zende-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Inspector-Zende-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Kingdom 2025 ฝ่าภารกิจเดือด",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/8a1c2ae399bad60c803cfb685978ac38.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/kingdom-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Kingdom-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Detective Chinatown 1900 (2025) แก๊งม่วนป่วนอเมริกา",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/48f99e7032f09099a46095e648961af9.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/detective-chinatown-1900-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Detective-Chinatown-1900-2025-SUB.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Siege at Thorn High (2025) ปิดโรงเรียนล่าโหดครู",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/ed84965a816b5aa96c677f9f405777dd.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-siege-at-thorn-high-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Siege-at-Thorn-High-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Love Sick  (2025)",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/5e7c3da38507198abc5b57e105f9d6fb.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/love-sick-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Love-Sick-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Anaconda Cursed Jungle (2024) อนาคอนดา ป่าอาถรรพ์",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/1a5c064133775513b4f7822d8551e334.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/anaconda-cursed-jungle-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Anaconda-Cursed-Jungle-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "GATAO: Like Father Like Son (2024) เจ้าพ่อ: เชื้อร้ายไม่ทิ้งแถว",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202509/movie/b5f70f0f7ded0c2fcc5f99fa6e91408c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/gatao-like-father-like-son-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/GATAO-Like-Father-Like-Son-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "A Normal Woman (2025) ผู้หญิงธรรมดาคนหนึ่ง",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/3f8c123b22f225a1cb4144384c94df57.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/a-normal-woman-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/A-Normal-Woman-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Blood Brothers Bara Naga (2025) เลือดเดือด ฝ่าองค์กรทมิฬ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/1847301f4407c4a8b32d4371480b0f9d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/blood-brothers-bara-naga-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Blood-Brothers-Bara-Naga-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Beast in the River (2023) อสูรแม่น้ำ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/1d2fc5b35077adda1b8995f69c6874bc.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-beast-in-the-river-2023",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Beast-in-the-River-2023-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Isolated (2025) ตัดขาด",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/4a38136a96fb9c036565c151e9614912.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/isolated-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Isolated-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The New Painted Skin (2024) ร่างใหม่",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/043fe2852ff0517efbfe45368c993fca.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-new-painted-skin-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Painted-Skin-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Untold (2025) ซ่อนเร้น",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/4b29f8df9f12e2b2d195dc00a17b8a47.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/untold-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Untold-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Creation of the Gods I Kingdom of Storms (2023) กำเนิดเทพเจ้า ตอน อาณาจักรแห่งพายุ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/f3af0e8849b7180f3f5ccefc9b760477.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/creation-of-the-gods-i-kingdom-of-storms-2023",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Creation-of-the-Gods-I-Kingdom-of-Storms-2023-SUB.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Detective Dee The Ghosts in Weird Town (2025) ตี๋เหรินเจี๋ย เมืองผีซากศพ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/c803197c302331db682202c6966630bf.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/detective-dee-the-ghosts-in-weird-town-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Detective-Dee-The-Ghosts-in-Weird-Town-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Prosecutor (2024) เกิดมาเก็บเจ้าพ่อ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/fccda98553f43bce4a3cbc92785c6270.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-prosecutor-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Prosecutor-2024-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Lilim (2025) ซ่อนในเงามืด",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/694ba6224cf9ea8f5abba14a7fcbde74.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/lilim-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Lilim-2025-sub1.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "High Forces (2024) ยึดเสียดฟ้า",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/cea986be6379f59d34cd1973449ad1e3.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/high-forces-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/High-Forces-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Them Behind The Door (2024) เปิดDOORเห็นผี",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/eeee0816539e6d9c8bfc076949618d25.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/them-behind-the-door-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Them-Behind-the-Door-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Kun in the Distant Ocean (2024) คุน สัตว์ประหลาดแห่งทะเลเหนือ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/5317b33956e91a7dc241bef3d9567263.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/kun-in-the-distant-ocean-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Kun-in-the-Distant-Ocean-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "RAID 2 (2025) เจ้าหน้าที่ระห่ำท้าทรชน 2",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/102620c9ca3473e106a646346b992e4c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/raid-2-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/RAID-2-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Invincible Swordsman (2025) เดชคัมภีร์เทวดา",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202506/movie/3a735dbb508851e0ce4f7808b84c2625.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/invincible-swordsman-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Invincible-Swordsman-2025-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Jaat (2025) เดือดล้างอิทธิพล",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202506/movie/0b1fecc03b2bc3ec1ccc314a484516e2.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/jaat-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Jaat-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Blade of Fury (2024) ดาบคลั่ง",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202504/movie/f87b7a68d7ecf817769c4f57a9e27000.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/blade-of-fury-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Blade-of-Fury-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Legend of Condor Hero What is love (2024) มังกรหยกท่องยุทธภพ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/2b7b7a33bdb9b9e8b3d013a6a7fec3d3.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-legend-of-condor-hero-what-is-love-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Legend-of-Condor-Hero-What-is-love-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Legend of the Condor Heroes The Gallants (2025) มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/7cda9c50182d07c07b4096e41f291dbf.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-legend-of-the-condor-heroes-the-gallants-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Legend-of-the-Condor-Heroes-The-Gallants-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Brotherhood of Blades 3 (2024) มังกรพยัคฆ์ ล่าสะท้านยุทธภพ 3",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/8ab19a85d5b7d49b251bad9437faf90c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/brotherhood-of-blades-3-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/BROTHERHOOD-OF-BLADES-3-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Credit Knife People (2024) ตำนานกระบี่จ้านหลู",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/a3eef719a1680b657c054aebcfc5752f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/credit-knife-people-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Credit-Knife-People-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Master Qianhe (2024) นักพรตเชียนเฮ่อ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202506/movie/6e52d725c72ed851969ec612c6782a69.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/master-qianhe-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Master-Qianhe-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Money Games (2025) ขบวนการปราบเงินตุ๋น",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/b8d2b2d52da76887bae400c9418b28b3.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/money-games-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Money-Games-2025-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Saripodhaa Sanivaaram (2024) เสาร์คลั่ง",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/43f534c0c3c73a2b0b8b8e14e9d3c671.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/saripodhaa-sanivaaram-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Saripodhaa-Sanivaaram-2024-sub.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Body Guard (2024) เดอะบอดี้การ์ด",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/92c7f3162665bfc70bdc316ba875f461.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-body-guard-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Body-Guard-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Fangs & Fury (2024) สงครามหมาป่า",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/483b325738df80f8c06ad5b7be8cbdf0.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/fangs-fury-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Fangs-and-Fury-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Detective Dee and Deadly Demon Monk (2024) ตี๋เหรินเจี๋ยกับนักบวชมรณะ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202506/movie/2886c9e8b04353f73ffd12bd2edeece1.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/detective-dee-and-deadly-demon-monk-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Detective-Di-Renjie-The-Deadly-Monk-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Black Dog (2024) สี่ขาหัวใจไม่ดำ",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/0d09a6e68461167cdecbf61d1e52508f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/black-dog-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Black-Dog-2024-tha.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Haunted Apartment 2 Miss K (2024) ผีนรก 610",
+    "group": "หนังเอเชีย",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/92763e3aeed8ecae1cb009de5f40ed97.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-haunted-apartment-2-miss-k-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/The-Haunted-Apartment-2-Miss-K-2024-tha.mp4.m3u8"
+      }
+    ]
   }
 ]
