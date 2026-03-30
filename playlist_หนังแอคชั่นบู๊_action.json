@@ -8686,5 +8686,725 @@
         "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-8201-to-8300/b33a97a6-b819-4933-8939-fb84d1eef5bc___Catwoman%20%282004%29.th/hls/Catwoman%20%282004%29.th.m3u8"
       }
     ]
+  },
+  {
+    "title": "Terminator 1984",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/8363a33e3d07cdfae327049fe3c78f20.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/terminator-1984",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-10201-to-10300/df775eea-ad47-4151-9713-497ce90b099e___Terminator.1984%20tha/hls/Terminator.1984%20tha.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Terminator 2 Judgment Day 1991",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/8dae08de10748b140d6396c194fc8eb8.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/terminator-2-judgment-day-1991",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-1401-to-1500/2020dff1-7f7e-4c2a-90ee-62fa960bafaf___Terminator.2.Judgment%20Day.1991%20tha/hls/Terminator.2.Judgment%20Day.1991%20tha.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Terminator 3 Rise.of.the Machines 2003",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/97a0f63f9c0d235fbcbb42b14ff626e0.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/terminator-3-rise-of-the-machines-2003",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-801-to-900/126912b4-df4c-422b-8a6a-79366211fd04___Terminator.3.Rise.of.the.Machines.2003%20tha/hls/Terminator.3.Rise.of.the.Machines.2003%20tha.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Joy Ride 2 (2008) เกมหยอก หลอกไปเชือด 2",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/656947a3d88a3a11fb86cf3e462eb920.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/joy-ride-2-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%A2%E0%B8%AD%E0%B8%81-%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%94",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-9101-to-9200/c5e48cea-ee13-41c4-ad49-6a3b8dcf8bae___Joy%20Ride%202.Dead%20Ahead.th/hls/Joy%20Ride%202.Dead%20Ahead.th.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Joy Ride 3 (2014) เกมหยอก หลอกไปเชือด 3",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/3af4c8dff50fbffc19d71ee4b8586807.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/joy-ride-3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-6801-to-6900/952f880c-76dd-4509-936d-ebb68323c9e6___Joy.Ride.3.2014.th/hls/Joy.Ride.3.2014.th.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Jumanji (1995) จูแมนจี้ เกมดูดโลกมหัศจรรย์",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/55930bbca73bd685a22e408c97618be6.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/jumanji-1995-%E0%B8%88%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%89-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/7ecf4eb6-e38e-4b6a-86f3-35a50811b68d/hls/Jumanji.1995.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Anthopiod 2016",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/549939a1d1bfcace65be33421f6f824d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/anthopiod-2016",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/11edc07b-c094-4c82-a465-b7c6a17a93e9/hls/Anthropoid%20(2016)%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Underworld: Evolution (2006) มหาสงครามล้างพันธุ์อสูร ภาค 2",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/8c0177f3847488e2206d9fbb8a02a8be.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/underworld-2-evolution-2006",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-901-to-1000/15aefbf3-d263-45ca-afde-c3e616cd66ee___Underworld%20-%20Evolution%202006%20TH/hls/Underworld%20-%20Evolution%202006%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Underworld: Blood Wars (2016) มหาสงครามล้างพันธุ์อสูร ภาค 5",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/91ff1259dbe3fa73cfd3a716db392213.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/underworld-5-blood-wars-2016",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-5801-to-5900/7eb42a58-776e-4b37-b00f-3e61cf374070___Underworld%20-%20Blood%20Wars%202016%20TH/hls/Underworld%20-%20Blood%20Wars%202016%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Deep blue sea 3 2020",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/cedaa9ee3bb43ca82985b5b4c91f9928.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/deep-blue-sea-3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-101-to-200/042d2c2b-0048-4064-9eaf-1f09944cd4b8___Deep%20Blue%20Sea%203%202020%20TH/hls/Deep%20Blue%20Sea%203%202020%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Terminator Genisys (2015)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/8a402f6f1fa8e39955e0ab9b287c2d8d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/terminator-genisys-2015",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-2801-to-2900/3e52bd02-6335-46bf-a2f0-ebeb1d847066___Terminator%20Genisys%20%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87ENG-SUBTH-02/hls/Terminator%20Genisys%20%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87ENG-SUBTH-02.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Aliens vs. Predator เอเลียน ปะทะ พรีเดเตอร์ 2",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/9310430d70efa72a42e0c8c40c1c2934.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/aliens-vs-predator-%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0-%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-7601-to-7700/a57fa9ed-8614-4b3b-8e8d-db70f0ee30b0___Alien%20vs%20Predator%20II%20th/hls/Alien%20vs%20Predator%20II%20th.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "RAMBO 4 แรมโบ้ 4 นักรบพันธุ์เดือด 2008",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/f6d190b7115cc55e8026084a752a3cc1.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/rambo-2008",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-9401-to-9500/ce8f37d9-529a-4f9e-9e6f-fb991cfb5a9a___Rambo%20IV%202008/hls/Rambo%20IV%202008.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Rambo III (1988) แรมโบ้ นักรบเดนตาย 3",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/1ebd72d3e0717b17061d230cd047eb84.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/rambo-lll-1988",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-2601-to-2700/39b67065-607f-4790-90e7-bf19aa53d0cf___Rambo%20III%201988/hls/Rambo%20III%201988.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Hunter Killer (2018) สงครามอเมริกาผ่ารัสเซีย",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/61ab1568253e9bba45156c80bf2a6045.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/hunter-killer-2018",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-7001-to-7100/9852911b-8614-4380-add6-e97b1974c034___Hunter%20Killer%20%282018%29%20TH/hls/Hunter%20Killer%20%282018%29%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Rambo : First Blood Part ll (1985)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/c66748828917641e3f8b33367c5a52d2.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/rambo-first-blood-part-ll-1985",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-8601-to-8700/bbfece58-4d1a-452d-a8ae-13dd3b986c71___Rambo%20First%20Blood%20Part%20II%201985/hls/Rambo%20First%20Blood%20Part%20II%201985.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Rambo : First Blood (1982)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/5effefc82a66286e28059d0be064d150.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/rambo-first-blood-1982",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-5501-to-5600/7784fd81-4097-4fb7-8724-4c3b840c178e___Rambo%20First%20Blood%20Part%20I%201982/hls/Rambo%20First%20Blood%20Part%20I%201982.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Tremors 6 : A Cold Day in Hell ทูตนรกล้านปี",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/3203121232ea8bc733f72958e625944e.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/tremors-6-a-cold-day-in-hell-%E0%B8%97%E0%B8%B9%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%B5",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/29658aa2-3fc1-403f-9b02-f34db3ad79e3/hls/Tremors%206%20A%20Cold%20Day%20in%20Hell%20(2018)%20sub.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Red Sonja 1985",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/0abbad1400e5e4b0f1bdbde61552e54b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/red-sonja-1985",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-9201-to-9300/ca3b642f-e62c-4acb-affa-c04b49c64037___Red%20Sonja%20%281985%29.th/hls/Red%20Sonja%20%281985%29.th.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Independence Day Resurgence (2016) สงครามใหม่วันบดโลก",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/a6ed7df545f45eba3dc0226a7815fbe2.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/independence-day-resurgence-2016-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9A%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-1701-to-1800/261123ef-ef6f-4257-9758-5957dee0671b___Independence%20Day%20Resurgence%20%282016%29%20TH/hls/Independence%20Day%20Resurgence%20%282016%29%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Kung Fu Panda 3 กังฟูแพนด้า 3",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/6935c402c20388457b180959495c7734.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/kung-fu-panda-3-%E0%B8%81%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%B9%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2-3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-601-to-700/0d29fd97-9b95-45ea-9f9e-990426390c49___%7BMINI%20Super-HQ%7D_Kung.Fu.Panda.3.2016.thai-01/hls/%7BMINI%20Super-HQ%7D_Kung.Fu.Panda.3.2016.thai-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Jarhead พลระห่ำสงครามนรก 3",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202210/movie/f4e65eb8c1ae61d44b38daa240a3fdf9.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/jarhead-%E0%B8%9E%E0%B8%A5%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%A3%E0%B8%81-3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-2101-to-2200/2f9b035f-f47f-4c7e-a560-4da0081630c8___Jarhead.3.The.Siege.2016._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr/hls/Jarhead.3.The.Siege.2016._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Snake Fall of a City (2021) เลื้อยล่าระห่ำเมือง",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/527c423f513734f58af76367d26eacc9.png",
+    "movieUrl": "https://ezmovie.movie/movie/snake-fall-of-a-city-2021-%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Magic Town (2021) ฉีหลิน เมืองต้องมนตร์",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/00281206552df4154c236a16aeba7f1d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/magic-town-2021-%E0%B8%89%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%99-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Unbeatable (2021) นางโจร ภาค ดาบทลายหิมะ",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/1166f7e3e078076a548b245b64414064.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-unbeatable-2021-%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%88%E0%B8%A3-%E0%B8%A0%E0%B8%B2%E0%B8%84-%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B4%E0%B8%A1%E0%B8%B0",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Bund (2021) รัตติกาลแห่งเซี่ยงไฮ้ 1 คดีปริศนาเงินสกปรก",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/3e10ba231437907feb9a39395126b951.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-bund-2021-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B9%84%E0%B8%AE%E0%B9%89-1-%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%81",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Strike Back (2021) ก้าวข้ามสถานการณ์จนตรอก",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/8b5ba19467dcb87941ea1216cb27f38a.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/strike-back-2021-%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%88%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%81",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Finding Ohana | Netflix (2021) ผจญภัยใจอะโลฮา",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/33f8f6423609667d9d76a1047d66af41.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/finding-ohana-netflix-2021-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%88%E0%B8%AD%E0%B8%B0%E0%B9%82%E0%B8%A5%E0%B8%AE%E0%B8%B2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-9001-to-9100/c426fc96-f45d-4132-9cdb-3bc3d5b37cb0___Finding%20Ohana%20%282021%29/hls/Finding%20Ohana%20%282021%29.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "REDEMPTION DAY (2021) วันถอนแค้นไถ่ชีวิต",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/2312e8570d394ddded8bccc1f1a25eac.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/redemption-day-2021-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%96%E0%B9%88%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/the-classic-2003-%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88-%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95th-1685709258/entry_the-classic-2003-%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88-%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95th.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Maoshan (2021) ภูเขาเหมาซาน",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/e3340991355ea0b8dfee03d07db869ce.png",
+    "movieUrl": "https://ezmovie.movie/movie/maoshan-2021-%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Heros Return (2021) วีรบุรุษหวนคืน",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/763234411a08c8706338c48a31a506cc.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/heros-return-2021-%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9%E0%B8%AB%E0%B8%A7%E0%B8%99%E0%B8%84%E0%B8%B7%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Knights Of Valour (2021) ดาบชิงหลงยั้นเยว่",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/6fa669ce26217388cd69d601a6b8d5e4.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/knights-of-valour-2021-%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%87%E0%B8%A2%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%A7%E0%B9%88",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Mad Monk (2021) จี้กง อรหันต์ปราบมังกร",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/724d8b4d45eceb887c065aeb7510b2c3.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-mad-monk-2021-%E0%B8%88%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%87-%E0%B8%AD%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "RED (2021)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/4189aae0299d9634780bb29578f7d69f.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/red-2021",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Thunder Twins (2021) เหลยเจิ้นจื่อ วีรบุรุษเทพสายฟ้า",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/b8a14972929b9c452637d6dfa6ec34bd.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/thunder-twins-2021-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%A2%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B7%E0%B9%88%E0%B8%AD-%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Soul Of Blades (2021) กระบี่มาร",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/37db09b1ba1766ddb7d8aeb2a457e161.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/soul-of-blades-2021-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%A3",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "SENTINELLE (2021) ปฏิบัติการเซนติเนล",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/de854616445e1b65b6a83a5ef57df467.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/sentinelle-2021-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%A5",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Tribal Get Out Alive (2020)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/ff5b90e8da1a082a659c95af11fd2f71.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/tribal-get-out-alive-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "God of War 2 (2020) ลิโป้ ขุนศึกสะท้านโลกันต์",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/3d0d6a38655bd293faefdcebd1b3a2f6.png",
+    "movieUrl": "https://ezmovie.movie/movie/god-of-war-2-2020-%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%9B%E0%B9%89-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Mojin Mysterious Treasure (2020)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/152a57d9814bcec5427c901ef6fd6a4c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/mojin-mysterious-treasure-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Master Baji (2020)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/872365949b4cbfea4e87b1287f04ffb0.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-master-baji-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Crazy Beggar SuQiEr (2020): ยาจกซู หมัดเมาสะท้านฟ้า",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/548c489953cfbab3cd01cbcdd4d8701b.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/crazy-beggar-suqier-2020-%E0%B8%A2%E0%B8%B2%E0%B8%88%E0%B8%81%E0%B8%8B%E0%B8%B9-%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Money Plane (2020)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/e32111227fdb28f95494c2c2768b20f2.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/money-plane-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Taoist Master Kylin (2020) ปรมาจารย์ลัทธิเต๋า ฉีหลิน",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/cec555199c787f416426835c0265b19e.png",
+    "movieUrl": "https://ezmovie.movie/movie/taoist-master-kylin-2020-%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%A5%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%95%E0%B9%8B%E0%B8%B2-%E0%B8%89%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Crocodile Island (Ju e dao) (2020) เกาะจระเข้ยักษ์",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/10cffc668e162447819793fb0e8d7489.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/crocodile-island-ju-e-dao-2020-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%88%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "JIU JITSU (2020) โคตรคน ชนเอเลี่ยน",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/c7199afdd8e14eae22bcecf6d8061530.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/jiu-jitsu-2020-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99-%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/be80b06d-8a61-4d97-812a-92748783a7ce/hls/%7BMINI%20Super-HQ%7D_Jiu.Jitsu.(2020).m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Darbar (2020) ยอดตำรวจพิทักษ์คุณธรรม",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/df5ff0c11b8e8b40998530ff84feb1e1.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/darbar-2020-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Ben 10 vs the Universe The Movie (2020)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202107/movie/6baf0c06f46446e9e245b86eff53e9cb.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/ben-10-vs-the-universe-the-movie-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Blade of Wind (2020) ดาบตัดวายุ",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/63e790b6763363c794a3026857000f3b.png",
+    "movieUrl": "https://ezmovie.movie/movie/the-blade-of-wind-2020-%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%B8",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Unleashed (2020)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/5b94898d59fafea9704ec7bb28285a89.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/unleashed-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Justice League Dark Apokolips War (2020) จัสติซ ลีก สงครามมนต์เวทมนต์",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202107/movie/9a32fb01522f415784b948791995e56c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/justice-league-dark-apokolips-war-2020-%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%8B-%E0%B8%A5%E0%B8%B5%E0%B8%81-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "MORTAL (2020) ปริศนาพลังเหนือมนุษย์",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/2ca4fb11dbe4d6472ddf7415e8a8f2b0.png",
+    "movieUrl": "https://ezmovie.movie/movie/mortal-2020-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-1901-to-2000/2be2ac78-afad-45f4-aee4-c46f4979cf51___Mortal.2020%20TH/hls/Mortal.2020%20TH.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Legacy พากย์ไทย (2020)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/133af8193f55ba4c6b50dd5317663f8d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/legacy-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "THE LOVEBIRDS (2020) เดอะ เลิฟเบิร์ดส์ [ซับไทย]",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/53fef4774fe03413be4ce286810f9db6.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-lovebirds-2020-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%AA%E0%B9%8C-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/b4006aad-fe92-407e-989a-f55be92f8d7c/hls/The.Lovebirds.2020%20ENG.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "THE UNTAMED FATAL JOURNEY (2020) ปรมาจารย์ลัทธิมาร ภาค วิญญาณอาฆาตแห่งชิงเหอ [ซับไทย]",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/003f9cd0ce37cb6127c0cf57d5c6ef03.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/the-untamed-fatal-journey-2020-%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%A5%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A3-%E0%B8%A0%E0%B8%B2%E0%B8%84-%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AD",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "MOJIN RAIDERS OF THE WU GORGE (2019)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/f34dc0a4fc49faf77c398e33cac1b09b.png",
+    "movieUrl": "https://ezmovie.movie/movie/mojin-raiders-of-the-wu-gorge-2019",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "The Informer (2019)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/16ab9ebbfc7683361827218c08081acd.png",
+    "movieUrl": "https://ezmovie.movie/movie/the-informer-2019",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Housefull 4 (2019)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/cbd20b36dc28ed1172ce0f4914d327f4.png",
+    "movieUrl": "https://ezmovie.movie/movie/housefull-4-2019",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Blood Hunters Rise of the Hybrids (2019)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/8bb176a1242beacf6321b47355de4a38.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/blood-hunters-rise-of-the-hybrids-2019",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "To Your Last Death (2019)",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202105/movie/5d3ff0d24fc344dd7d0f3d9137425546.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/to-your-last-death-2019",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
+      }
+    ]
   }
 ]
