@@ -115,8 +115,6 @@ $("a[href*='/movie/']").each((i, el) => {
   movies.push({ title, image, movieUrl, category: categoryPath });
 });
 
-return movies;
-
   return movies;
 }
 
