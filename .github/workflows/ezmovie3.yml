@@ -1,0 +1,32 @@
+name: EZMovie3
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 🔥 สำคัญมาก
+
+      - name: 🟢 Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📦 Install deps
+        run: npm install
+
+      - name: 🚀 Run scraper
+        run: node ez3.js
+
+      # ❌ ลบ Commit & Push ออกทั้งหมด
