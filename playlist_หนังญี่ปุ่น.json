@@ -1006,5 +1006,17 @@
         "url": "https://free100.co/cli-uploader/sorry-video-1672131215/entry_sorry-video.m3u8"
       }
     ]
+  },
+  {
+    "title": "GARO Taiga (2025) กาโร่ ไทกะ กำเนิดอัศวินหมาป่าทองคำ",
+    "group": "หนังญี่ปุ่น",
+    "logo": "https://bbk100.xyz/media/cache/strip/202604/movie/106866f8d02e28d3738701878b40106e.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/garo-taiga-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/GARO-Taiga-2025-TH.mp4.m3u8"
+      }
+    ]
   }
 ]
