@@ -10078,5 +10078,29 @@
         "url": "https://vod1.stream25.com/Project-Hail-Mary-2026-TH-Version-1.mp4.m3u8"
       }
     ]
+  },
+  {
+    "title": "Alice Through the Looking Glass (2016) อลิซในแดนมหัศจรรย์ 2",
+    "group": "หนังผจญภัย-adventure",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/4c5668b3765b4f4a8ede9a6e6d24dd4d.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/alice-through-the-looking-glass-2016-%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%8B%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-2",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-9001-to-9100/c398181e-694c-4be5-8b49-887b50ec39dc____Alice.Through.Looking.Glass.2016%E0%B9%84%E0%B8%97%E0%B8%A2-01/hls/_Alice.Through.Looking.Glass.2016%E0%B9%84%E0%B8%97%E0%B8%A2-01.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Phineas and Ferb the Movie: Candace Against the Universe(2020)",
+    "group": "หนังผจญภัย-adventure",
+    "logo": "https://bbk100.xyz/media/cache/strip/202205/movie/e9d5d76ce5a9ac142ed5ce483ef12f7c.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/phineas-and-ferb-the-movie-candace-against-the-universe-2020",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-8801-to-8900/c0552b12-b57f-4379-b398-a91296ab2783___Phineas.and.Ferb.The.Movie.Candace.Against.The.Universe.2020._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr/hls/Phineas.and.Ferb.The.Movie.Candace.Against.The.Universe.2020._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr.m3u8"
+      }
+    ]
   }
 ]
