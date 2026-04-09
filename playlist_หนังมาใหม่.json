@@ -3934,5 +3934,17 @@
         "url": "https://vod1.stream25.com/The-Roundup-Punishment-2024-SUB.mp4.m3u8"
       }
     ]
+  },
+  {
+    "title": "Streaming (2025)",
+    "group": "หนังมาใหม่",
+    "logo": "https://bbk100.xyz/media/cache/strip/202604/movie/fca10d208a8ce36dd3eded5990b79581.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/streaming-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Streaming-2025-SUB.mp4.m3u8"
+      }
+    ]
   }
 ]
