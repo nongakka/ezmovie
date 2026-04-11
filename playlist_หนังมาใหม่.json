@@ -3970,5 +3970,29 @@
         "url": "https://vod1.stream25.com/Road-House-2024-TH.mp4.m3u8"
       }
     ]
+  },
+  {
+    "title": "Cleaner (2025) ไต่ระทึกตึกนรก",
+    "group": "หนังมาใหม่",
+    "logo": "https://bbk100.xyz/media/cache/strip/202604/movie/89276bcb0f04e0dcaa2141004f33e9cc.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/cleaner-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Cleaner-2025-TH.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Mudborn (2025) หุ่นดินผี",
+    "group": "หนังมาใหม่",
+    "logo": "https://bbk100.xyz/media/cache/strip/202604/movie/963e47806a579992e0860f7d52cf51e9.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/mudborn-2025",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Mudborn-2025-TH.mp4.m3u8"
+      }
+    ]
   }
 ]
