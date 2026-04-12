@@ -20146,5 +20146,17 @@
         "url": "https://ezmoviehd.co/file/aws-converter/movies-aws-6701-to-6800/939aedef-53e3-4065-93d5-11fd83c18eca___Detective%20Conan%20Movie%2012%20%28BDRip%201920x1080%20x264%20FLAC%29/hls/Detective%20Conan%20Movie%2012%20%28BDRip%201920x1080%20x264%20FLAC%29.m3u8"
       }
     ]
+  },
+  {
+    "title": "Novoland (2024) คดีเร่นลับแห่งจื่วโจว",
+    "group": "หนังแอคชั่นบู๊-action",
+    "logo": "https://bbk100.xyz/media/cache/strip/202505/movie/18b4dea7fcd8565a934355c9a75972be.jpg",
+    "movieUrl": "https://ezmovie.movie/movie/novoland-2024",
+    "servers": [
+      {
+        "name": "M3U8",
+        "url": "https://vod1.stream25.com/Novoland-2024-tha.mp4.m3u8"
+      }
+    ]
   }
 ]
